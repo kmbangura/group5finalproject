@@ -18,6 +18,7 @@ outcomes before final grades are in.
    excluded G1/G2 (prior period grades) as predictors since they're too closely 
    tied to the final grade and would make the model artificially accurate 
    without real insight
+3. **Unsupervised Model: Clustering**:
 
 ## Key Findings
 - Number of past class failures is the strongest predictor of final grade
