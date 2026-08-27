@@ -5,7 +5,7 @@ Our analysis attempted to address which features could reliably correlated to ce
 
 This analysis can be helpful for people working in education or policy who are considering what interventions to put in place to support students. 
 
-To complete our analysis, we primarily used Python and PANDAS to load and display our dataset and sklearn packages to complete the various models. We also used Tableau to create visuals of our project.
+To complete our analysis, we primarily used Python and PANDAS to load and display our dataset and sklearn packages to complete the various supervised and unsupervised learning models. We also used Tableau to create visuals of our project.
 
 EDA → unsupervised → supervised modeling → dashboard
 * We used the EDA process to get a better sense of what data was available to use, and to transform the data in ways that made future modeling easier
