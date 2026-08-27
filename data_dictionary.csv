@@ -1,0 +1,26 @@
+Field,Definition
+Student ID,Row identifier (1-1044). One row = one student-course enrolment.
+Course,Mathematics or Portuguese. Students taking both appear as two rows.
+School,Gabriel Pereira or Mousinho da Silveira.
+Final Grade,"G3, the final-period grade on the Portuguese 0-20 scale."
+Result,Pass (final grade >= 10) or Fail.
+Passed,"1 if passed, 0 if failed. Average this field to get a pass rate."
+Failed,"1 if failed, 0 if passed. Average this field to get a failure rate."
+Grade Band,Final grade grouped: Fail / Sufficient / Good / Very good.
+Did Not Sit Final,Yes where the final grade is exactly 0 - typically a dropout or no-show.
+Segment,k-means segment from the unsupervised analysis (notebook 02).
+Risk Score,"Predicted probability of failing, from a Random Forest. Out-of-fold: every student was scored by a model that never trained on them."
+Risk Band,"Risk score bucketed: Low (<0.20), Moderate, Elevated, High (>0.60)."
+Flagged At Risk,"Yes when the risk score clears the operating threshold (0.42, tuned for ~70% recall)."
+Prediction Outcome,Confusion-matrix cell: true/false positive/negative.
+Correctly Predicted,1 when the flag matched the real outcome. Average for accuracy.
+Past Failures,Number of past class failures (0-3). The strongest single predictor.
+Has Past Failure,Yes when Past Failures > 0.
+Absences,School absences (0-75).
+Absence Band,Absences grouped: None (0) / 1-4 / 5-10 / More than 10.
+Study Time,"Weekly study time band, from under 2 hours to over 10."
+Wants Higher Education,Student intends to pursue higher education - an aspiration proxy.
+Extra School Support,"Receives extra school support. NOTE: assigned TO struggling students, so it marks risk rather than causing it."
+Mother Education / Father Education,"Parental education, 0 (none) to 4 (higher education)."
+Weekday Alcohol / Weekend Alcohol,"Self-reported consumption, 1 (very low) to 5 (very high)."
+Going Out,"Frequency of going out with friends, 1 (very low) to 5 (very high)."

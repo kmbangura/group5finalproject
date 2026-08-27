@@ -1,0 +1,1045 @@
+Student ID,Course,School,Sex,Address Type,Final Grade,Result,Passed,Failed,Risk Score,Risk Band,Segment,Flagged At Risk,Prediction Outcome,Past Failures,Has Past Failure,Absences,Absence Band,Study Time,Wants Higher Education,Extra School Support,Going Out
+1,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.5381,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,6,5-10,2 - 2 to 5 hours,Yes,Yes,4 - High
+2,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.464,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+3,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.6376,High,B - Steady middle,Yes,"False positive (flagged, passed)",3,Yes,10,5-10,2 - 2 to 5 hours,Yes,Yes,2 - Low
+4,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.3562,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+5,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.3623,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+6,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.4543,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+7,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.5491,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+8,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.4872,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,6,5-10,2 - 2 to 5 hours,Yes,Yes,4 - High
+9,Mathematics,Gabriel Pereira,Male,Urban,19,Pass,1,0,0.3468,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+10,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.329,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+11,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.3433,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+12,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.4442,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+13,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1898,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+14,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3073,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+15,Mathematics,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.4332,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+16,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.4107,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+17,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.3334,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+18,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4172,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,2 - Low
+19,Mathematics,Gabriel Pereira,Male,Urban,5,Fail,0,1,0.762,High,C - Disengaged social,Yes,True positive (correctly flagged),3,Yes,16,More than 10,1 - Under 2 hours,Yes,No,5 - Very high
+20,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.2298,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+21,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.2041,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+22,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.2642,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+23,Mathematics,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.2419,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+24,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.5993,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+25,Mathematics,Gabriel Pereira,Female,Rural,8,Fail,0,1,0.3769,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,2 - Low
+26,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.5914,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),2,Yes,14,More than 10,1 - Under 2 hours,Yes,No,2 - Low
+27,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3374,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,2 - Low
+28,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.4472,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+29,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.27,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+30,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.721,High,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,16,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+31,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.3384,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+32,Mathematics,Gabriel Pereira,Male,Urban,17,Pass,1,0,0.2746,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+33,Mathematics,Gabriel Pereira,Male,Rural,16,Pass,1,0,0.494,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+34,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.4297,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+35,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.404,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+36,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.4232,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+37,Mathematics,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.1961,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+38,Mathematics,Gabriel Pereira,Male,Rural,15,Pass,1,0,0.4091,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,7,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+39,Mathematics,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.6733,High,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,2 - Low
+40,Mathematics,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.5953,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,Yes,1 - Very low
+41,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.6554,High,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,25,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+42,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.4873,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+43,Mathematics,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.1995,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+44,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3911,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,1 - Very low
+45,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.5795,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,14,More than 10,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+46,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.3935,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,Yes,2 - Low
+47,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.5572,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,12,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+48,Mathematics,Gabriel Pereira,Male,Urban,20,Pass,1,0,0.1465,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,4 - Over 10 hours,Yes,No,2 - Low
+49,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.2872,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+50,Mathematics,Gabriel Pereira,Female,Urban,7,Fail,0,1,0.5108,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),1,Yes,2,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+51,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.4184,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+52,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2359,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+53,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5434,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,6,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+54,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.6632,High,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,4 - High
+55,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.3988,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,4 - High
+56,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4824,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+57,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.3301,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+58,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.3112,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+59,Mathematics,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.4211,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,2 - Low
+60,Mathematics,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.2808,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+61,Mathematics,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.387,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+62,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.479,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,Yes,5 - Very high
+63,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.4215,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+64,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.5187,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,4 - High
+65,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.349,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,4 - High
+66,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.2378,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+67,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.3129,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,4,1-4,4 - Over 10 hours,Yes,No,3 - Medium
+68,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.4228,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,4,1-4,4 - Over 10 hours,Yes,Yes,3 - Medium
+69,Mathematics,Gabriel Pereira,Female,Rural,8,Fail,0,1,0.3467,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+70,Mathematics,Gabriel Pereira,Female,Rural,16,Pass,1,0,0.4583,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,12,More than 10,4 - Over 10 hours,Yes,No,2 - Low
+71,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.3978,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,2 - Low
+72,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.4111,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,3 - Medium
+73,Mathematics,Gabriel Pereira,Female,Rural,5,Fail,0,1,0.6511,High,B - Steady middle,Yes,True positive (correctly flagged),2,Yes,2,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+74,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.3662,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,2 - Low
+75,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.7281,High,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,54,More than 10,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+76,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.3619,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+77,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.2957,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,4 - Over 10 hours,Yes,No,3 - Medium
+78,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4132,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,3 - Medium
+79,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.6146,High,B - Steady middle,Yes,"False positive (flagged, passed)",3,Yes,2,1-4,1 - Under 2 hours,No,Yes,1 - Very low
+80,Mathematics,Gabriel Pereira,Female,Urban,5,Fail,0,1,0.3047,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,12,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+81,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.5518,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,Yes,2 - Low
+82,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3807,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,Yes,2 - Low
+83,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.4654,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,10,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+84,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.2556,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+85,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4324,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+86,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.5151,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),2,Yes,6,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+87,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.3335,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+88,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.207,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+89,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5472,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,12,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+90,Mathematics,Gabriel Pereira,Male,Urban,7,Fail,0,1,0.449,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,18,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+91,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.5077,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+92,Mathematics,Gabriel Pereira,Female,Urban,18,Pass,1,0,0.3312,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+93,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.4831,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+94,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4109,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+95,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.3342,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,4 - High
+96,Mathematics,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.5468,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,2,1-4,4 - Over 10 hours,Yes,Yes,2 - Low
+97,Mathematics,Gabriel Pereira,Male,Rural,15,Pass,1,0,0.3359,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,Yes,3 - Medium
+98,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.5618,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+99,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2611,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,4 - High
+100,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.5523,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),3 - 5 to 10 hours,Yes,Yes,5 - Very high
+101,Mathematics,Gabriel Pereira,Male,Urban,5,Fail,0,1,0.6403,High,C - Disengaged social,Yes,True positive (correctly flagged),0,No,14,More than 10,1 - Under 2 hours,Yes,Yes,5 - Very high
+102,Mathematics,Gabriel Pereira,Male,Urban,17,Pass,1,0,0.4533,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+103,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.2301,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+104,Mathematics,Gabriel Pereira,Female,Urban,6,Fail,0,1,0.5851,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,26,More than 10,2 - 2 to 5 hours,Yes,Yes,5 - Very high
+105,Mathematics,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.3821,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+106,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4544,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,10,5-10,4 - Over 10 hours,Yes,Yes,3 - Medium
+107,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.5525,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,8,5-10,4 - Over 10 hours,Yes,Yes,2 - Low
+108,Mathematics,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.2682,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+109,Mathematics,Gabriel Pereira,Male,Rural,13,Pass,1,0,0.4702,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,5 - Very high
+110,Mathematics,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.4822,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,5 - Very high
+111,Mathematics,Gabriel Pereira,Male,Urban,19,Pass,1,0,0.2629,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+112,Mathematics,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.5019,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),3 - 5 to 10 hours,Yes,Yes,2 - Low
+113,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.5828,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,6,5-10,2 - 2 to 5 hours,Yes,Yes,2 - Low
+114,Mathematics,Gabriel Pereira,Male,Urban,19,Pass,1,0,0.2933,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,1 - Under 2 hours,Yes,No,2 - Low
+115,Mathematics,Gabriel Pereira,Male,Rural,9,Fail,0,1,0.4101,Elevated,B - Steady middle,No,"False negative (missed, failed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+116,Mathematics,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.3025,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+117,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.2755,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+118,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.2655,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+119,Mathematics,Gabriel Pereira,Male,Rural,8,Fail,0,1,0.6795,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,20,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+120,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.253,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+121,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.3968,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+122,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.3043,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,4 - High
+123,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.3327,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+124,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.5745,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,18,More than 10,1 - Under 2 hours,Yes,No,4 - High
+125,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.4196,Elevated,B - Steady middle,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+126,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.366,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,5 - Very high
+127,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4791,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,2 - Low
+128,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.6795,High,D - High-risk repeaters,Yes,True positive (correctly flagged),3,Yes,2,1-4,2 - 2 to 5 hours,No,No,2 - Low
+129,Mathematics,Gabriel Pereira,Male,Rural,0,Fail,0,1,0.7562,High,B - Steady middle,Yes,True positive (correctly flagged),2,Yes,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+130,Mathematics,Gabriel Pereira,Male,Rural,18,Pass,1,0,0.5354,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+131,Mathematics,Gabriel Pereira,Female,Rural,0,Fail,0,1,0.6364,High,A - Supported achievers,Yes,True positive (correctly flagged),2,Yes,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+132,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.4839,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+133,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.5089,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,12,More than 10,1 - Under 2 hours,Yes,No,4 - High
+134,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4081,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,16,More than 10,1 - Under 2 hours,Yes,No,1 - Very low
+135,Mathematics,Gabriel Pereira,Male,Rural,0,Fail,0,1,0.3538,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+136,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.2806,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+137,Mathematics,Gabriel Pereira,Male,Rural,0,Fail,0,1,0.4648,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+138,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.6796,High,D - High-risk repeaters,Yes,True positive (correctly flagged),2,Yes,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+139,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.7275,High,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+140,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.3098,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+141,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.2843,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),4 - Over 10 hours,Yes,Yes,2 - Low
+142,Mathematics,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.6694,High,C - Disengaged social,Yes,True positive (correctly flagged),2,Yes,8,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+143,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.3717,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+144,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.5184,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+145,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.7576,High,B - Steady middle,Yes,True positive (correctly flagged),3,Yes,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+146,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.5181,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+147,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.6618,High,A - Supported achievers,Yes,True positive (correctly flagged),3,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+148,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4469,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+149,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.4348,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),1 - Under 2 hours,No,No,2 - Low
+150,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.6497,High,C - Disengaged social,Yes,"False positive (flagged, passed)",3,Yes,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+151,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.7346,High,C - Disengaged social,Yes,True positive (correctly flagged),3,Yes,0,None (0),1 - Under 2 hours,No,No,5 - Very high
+152,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.6439,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,6,5-10,1 - Under 2 hours,Yes,No,4 - High
+153,Mathematics,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.6173,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",2,Yes,8,5-10,3 - 5 to 10 hours,Yes,No,1 - Very low
+154,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.7483,High,A - Supported achievers,Yes,True positive (correctly flagged),3,Yes,0,None (0),1 - Under 2 hours,No,No,4 - High
+155,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.5269,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,1 - Very low
+156,Mathematics,Gabriel Pereira,Male,Rural,8,Fail,0,1,0.3833,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+157,Mathematics,Gabriel Pereira,Male,Rural,13,Pass,1,0,0.4541,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,2 - Low
+158,Mathematics,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.6722,High,C - Disengaged social,Yes,"False positive (flagged, passed)",3,Yes,6,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+159,Mathematics,Gabriel Pereira,Male,Rural,15,Pass,1,0,0.3872,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,2 - Low
+160,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.6137,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+161,Mathematics,Gabriel Pereira,Male,Rural,0,Fail,0,1,0.7114,High,B - Steady middle,Yes,True positive (correctly flagged),2,Yes,0,None (0),1 - Under 2 hours,No,No,2 - Low
+162,Mathematics,Gabriel Pereira,Male,Rural,7,Fail,0,1,0.6291,High,C - Disengaged social,Yes,True positive (correctly flagged),2,Yes,6,5-10,2 - 2 to 5 hours,Yes,Yes,4 - High
+163,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.617,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,Yes,No,4 - High
+164,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5296,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,2,1-4,1 - Under 2 hours,No,No,3 - Medium
+165,Mathematics,Gabriel Pereira,Male,Rural,7,Fail,0,1,0.7183,High,C - Disengaged social,Yes,True positive (correctly flagged),3,Yes,0,None (0),2 - 2 to 5 hours,No,No,5 - Very high
+166,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.6386,High,A - Supported achievers,Yes,"False positive (flagged, passed)",1,Yes,16,More than 10,1 - Under 2 hours,No,No,2 - Low
+167,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.6492,High,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,No,No,5 - Very high
+168,Mathematics,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.4652,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+169,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.5216,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+170,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.4125,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+171,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.7011,High,C - Disengaged social,Yes,True positive (correctly flagged),2,Yes,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+172,Mathematics,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.4475,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+173,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.3565,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+174,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.6975,High,B - Steady middle,Yes,True positive (correctly flagged),3,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+175,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.4272,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+176,Mathematics,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.3082,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+177,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4894,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+178,Mathematics,Gabriel Pereira,Male,Urban,6,Fail,0,1,0.357,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+179,Mathematics,Gabriel Pereira,Male,Rural,9,Fail,0,1,0.3849,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,10,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+180,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.2982,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+181,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.3895,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+182,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.2569,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+183,Mathematics,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.4019,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+184,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.6209,High,C - Disengaged social,Yes,True positive (correctly flagged),0,No,56,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+185,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.5792,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,14,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+186,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.6549,High,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,12,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+187,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.341,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+188,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.4727,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+189,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.3886,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+190,Mathematics,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.3639,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+191,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.3004,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+192,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.509,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+193,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.5038,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,12,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+194,Mathematics,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.398,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,2 - Low
+195,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.3973,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+196,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.5069,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+197,Mathematics,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.2006,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+198,Mathematics,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.4153,Elevated,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,4 - High
+199,Mathematics,Gabriel Pereira,Female,Urban,18,Pass,1,0,0.6335,High,A - Supported achievers,Yes,"False positive (flagged, passed)",1,Yes,24,More than 10,1 - Under 2 hours,Yes,No,4 - High
+200,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.3035,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+201,Mathematics,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.355,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+202,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.5118,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+203,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4782,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+204,Mathematics,Gabriel Pereira,Female,Rural,6,Fail,0,1,0.5932,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,18,More than 10,1 - Under 2 hours,Yes,No,2 - Low
+205,Mathematics,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.4676,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,5 - Very high
+206,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.6683,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,28,More than 10,3 - 5 to 10 hours,Yes,No,3 - Medium
+207,Mathematics,Gabriel Pereira,Female,Urban,7,Fail,0,1,0.5677,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),3,Yes,5,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+208,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.4462,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+209,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4277,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,2 - Low
+210,Mathematics,Gabriel Pereira,Female,Rural,7,Fail,0,1,0.3841,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,6,5-10,3 - 5 to 10 hours,Yes,No,2 - Low
+211,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.4695,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),0,No,10,5-10,4 - Over 10 hours,Yes,No,3 - Medium
+212,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.6821,High,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,13,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+213,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.7074,High,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,4 - High
+214,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.7437,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,15,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+215,Mathematics,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.4658,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,12,More than 10,1 - Under 2 hours,Yes,No,1 - Very low
+216,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.4574,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+217,Mathematics,Gabriel Pereira,Female,Urban,4,Fail,0,1,0.7625,High,C - Disengaged social,Yes,True positive (correctly flagged),2,Yes,22,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+218,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.6616,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,13,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+219,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.393,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,3,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+220,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.471,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+221,Mathematics,Gabriel Pereira,Female,Rural,6,Fail,0,1,0.3803,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+222,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.6895,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),3 - 5 to 10 hours,Yes,No,4 - High
+223,Mathematics,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.4528,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,1 - Very low
+224,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.5463,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+225,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.422,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+226,Mathematics,Gabriel Pereira,Female,Rural,7,Fail,0,1,0.603,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,16,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+227,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.4452,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+228,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.2682,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+229,Mathematics,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.5201,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,14,More than 10,2 - 2 to 5 hours,Yes,Yes,2 - Low
+230,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.4057,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,10,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+231,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.4328,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,14,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+232,Mathematics,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.4684,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+233,Mathematics,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.5146,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,14,More than 10,2 - 2 to 5 hours,Yes,Yes,5 - Very high
+234,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.2616,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+235,Mathematics,Gabriel Pereira,Male,Urban,6,Fail,0,1,0.5617,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,18,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+236,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.3114,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+237,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.473,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+238,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.5478,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,20,More than 10,1 - Under 2 hours,Yes,No,2 - Low
+239,Mathematics,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.5666,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+240,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.6358,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,0,None (0),2 - 2 to 5 hours,No,No,4 - High
+241,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.5015,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,14,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+242,Mathematics,Gabriel Pereira,Male,Rural,12,Pass,1,0,0.3509,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+243,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.2805,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+244,Mathematics,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.2185,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+245,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.5936,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),0,No,0,None (0),3 - 5 to 10 hours,Yes,No,4 - High
+246,Mathematics,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.3094,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+247,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.2187,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,2 - Low
+248,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.7613,High,C - Disengaged social,Yes,True positive (correctly flagged),3,Yes,16,More than 10,1 - Under 2 hours,No,No,5 - Very high
+249,Mathematics,Gabriel Pereira,Male,Rural,5,Fail,0,1,0.6956,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,8,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+250,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.3608,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+251,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.8088,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,No,No,5 - Very high
+252,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.4655,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+253,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.6646,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,4,1-4,1 - Under 2 hours,No,No,5 - Very high
+254,Mathematics,Gabriel Pereira,Male,Rural,8,Fail,0,1,0.4037,Elevated,B - Steady middle,No,"False negative (missed, failed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+255,Mathematics,Gabriel Pereira,Male,Rural,12,Pass,1,0,0.5251,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+256,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.665,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+257,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.3748,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,3 - Medium
+258,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3451,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,12,More than 10,2 - 2 to 5 hours,Yes,No,1 - Very low
+259,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.4467,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+260,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.3847,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,1 - Very low
+261,Mathematics,Gabriel Pereira,Female,Urban,18,Pass,1,0,0.5602,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,21,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+262,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.219,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+263,Mathematics,Gabriel Pereira,Male,Rural,12,Pass,1,0,0.5523,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,1,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+264,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.2756,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+265,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.5211,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+266,Mathematics,Gabriel Pereira,Male,Rural,17,Pass,1,0,0.6654,High,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,13,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+267,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5869,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+268,Mathematics,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.5569,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+269,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5637,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+270,Mathematics,Gabriel Pereira,Female,Rural,0,Fail,0,1,0.5953,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,No,No,5 - Very high
+271,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.7188,High,D - High-risk repeaters,Yes,True positive (correctly flagged),2,Yes,15,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+272,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.5153,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,4,1-4,4 - Over 10 hours,Yes,No,5 - Very high
+273,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.5376,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+274,Mathematics,Gabriel Pereira,Male,Rural,14,Pass,1,0,0.4206,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+275,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4088,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+276,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.6139,High,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,Yes,4 - High
+277,Mathematics,Gabriel Pereira,Female,Rural,9,Fail,0,1,0.5952,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),0,No,75,More than 10,2 - 2 to 5 hours,No,No,1 - Very low
+278,Mathematics,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.4907,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,22,More than 10,1 - Under 2 hours,Yes,No,4 - High
+279,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.678,High,A - Supported achievers,Yes,True positive (correctly flagged),1,Yes,15,More than 10,2 - 2 to 5 hours,Yes,Yes,4 - High
+280,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.3086,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+281,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.5623,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,30,More than 10,1 - Under 2 hours,Yes,No,4 - High
+282,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.665,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,19,More than 10,1 - Under 2 hours,Yes,No,4 - High
+283,Mathematics,Gabriel Pereira,Female,Rural,12,Pass,1,0,0.4317,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,1,1-4,4 - Over 10 hours,Yes,No,2 - Low
+284,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.6116,High,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+285,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.6073,High,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+286,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3569,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+287,Mathematics,Gabriel Pereira,Female,Urban,19,Pass,1,0,0.3604,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,5,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+288,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.4074,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+289,Mathematics,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.3017,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,3 - 5 to 10 hours,Yes,No,4 - High
+290,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.3903,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,9,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+291,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.5843,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,11,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+292,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.3311,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+293,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.5398,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,12,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+294,Mathematics,Gabriel Pereira,Female,Rural,18,Pass,1,0,0.3724,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,2 - Low
+295,Mathematics,Gabriel Pereira,Male,Rural,14,Pass,1,0,0.456,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,8,5-10,3 - 5 to 10 hours,Yes,No,2 - Low
+296,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3309,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+297,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.3995,Moderate,D - High-risk repeaters,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+298,Mathematics,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.5188,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),0,No,10,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+299,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.4102,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,3 - Medium
+300,Mathematics,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.446,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,5,5-10,1 - Under 2 hours,Yes,No,2 - Low
+301,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.512,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,14,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+302,Mathematics,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.2823,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+303,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.4569,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+304,Mathematics,Gabriel Pereira,Female,Urban,18,Pass,1,0,0.4031,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,2 - Low
+305,Mathematics,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.6584,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,20,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+306,Mathematics,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.5832,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,8,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+307,Mathematics,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.4851,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+308,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.6383,High,D - High-risk repeaters,Yes,True positive (correctly flagged),1,Yes,38,More than 10,1 - Under 2 hours,Yes,No,4 - High
+309,Mathematics,Gabriel Pereira,Male,Rural,12,Pass,1,0,0.6766,High,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+310,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.606,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,18,More than 10,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+311,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.621,High,D - High-risk repeaters,Yes,True positive (correctly flagged),1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+312,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.5828,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",0,No,20,More than 10,2 - 2 to 5 hours,No,No,1 - Very low
+313,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.6393,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,3,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+314,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.5321,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,22,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+315,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.5903,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",2,Yes,14,More than 10,3 - 5 to 10 hours,Yes,No,2 - Low
+316,Mathematics,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.574,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,40,More than 10,3 - 5 to 10 hours,Yes,No,2 - Low
+317,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.4829,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+318,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.5791,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,9,5-10,3 - 5 to 10 hours,Yes,No,4 - High
+319,Mathematics,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.4636,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,4 - High
+320,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.5158,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+321,Mathematics,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.4542,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,23,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+322,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.381,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,12,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+323,Mathematics,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.3788,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,3,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+324,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.3704,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,1,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+325,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.3863,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+326,Mathematics,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.2747,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,3,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+327,Mathematics,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.484,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,3,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+328,Mathematics,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.5363,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+329,Mathematics,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.4389,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,7,5-10,3 - 5 to 10 hours,Yes,No,4 - High
+330,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.4663,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+331,Mathematics,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.3885,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,2,1-4,4 - Over 10 hours,Yes,No,5 - Very high
+332,Mathematics,Gabriel Pereira,Female,Rural,14,Pass,1,0,0.4756,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,7,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+333,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.5,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+334,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.5576,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+335,Mathematics,Gabriel Pereira,Female,Rural,0,Fail,0,1,0.4474,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),4 - Over 10 hours,Yes,No,4 - High
+336,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.4811,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,16,More than 10,3 - 5 to 10 hours,Yes,No,5 - Very high
+337,Mathematics,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.5629,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,12,More than 10,3 - 5 to 10 hours,Yes,No,3 - Medium
+338,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.4375,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+339,Mathematics,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.3412,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,7,5-10,4 - Over 10 hours,Yes,No,3 - Medium
+340,Mathematics,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.5098,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+341,Mathematics,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.629,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,3 - 5 to 10 hours,Yes,No,4 - High
+342,Mathematics,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.5611,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+343,Mathematics,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.2108,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,11,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+344,Mathematics,Gabriel Pereira,Female,Urban,0,Fail,0,1,0.6961,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+345,Mathematics,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4096,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+346,Mathematics,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.3374,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,7,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+347,Mathematics,Gabriel Pereira,Male,Rural,16,Pass,1,0,0.4123,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,9,5-10,3 - 5 to 10 hours,Yes,No,2 - Low
+348,Mathematics,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.4961,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),3 - 5 to 10 hours,Yes,No,5 - Very high
+349,Mathematics,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.5207,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+350,Mathematics,Mousinho da Silveira,Male,Rural,13,Pass,1,0,0.6797,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,10,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+351,Mathematics,Mousinho da Silveira,Male,Rural,8,Fail,0,1,0.7752,High,D - High-risk repeaters,Yes,True positive (correctly flagged),3,Yes,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+352,Mathematics,Mousinho da Silveira,Male,Urban,13,Pass,1,0,0.4724,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+353,Mathematics,Mousinho da Silveira,Male,Urban,8,Fail,0,1,0.7545,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,7,5-10,1 - Under 2 hours,No,No,3 - Medium
+354,Mathematics,Mousinho da Silveira,Male,Rural,8,Fail,0,1,0.7676,High,D - High-risk repeaters,Yes,True positive (correctly flagged),1,Yes,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+355,Mathematics,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.3926,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+356,Mathematics,Mousinho da Silveira,Female,Urban,9,Fail,0,1,0.5529,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+357,Mathematics,Mousinho da Silveira,Female,Rural,13,Pass,1,0,0.3355,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+358,Mathematics,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.4468,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+359,Mathematics,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.4441,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,2 - Low
+360,Mathematics,Mousinho da Silveira,Female,Urban,16,Pass,1,0,0.4589,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+361,Mathematics,Mousinho da Silveira,Female,Rural,13,Pass,1,0,0.5204,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+362,Mathematics,Mousinho da Silveira,Male,Rural,12,Pass,1,0,0.7436,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,2,1-4,2 - 2 to 5 hours,No,No,3 - Medium
+363,Mathematics,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.5458,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+364,Mathematics,Mousinho da Silveira,Female,Urban,15,Pass,1,0,0.5111,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+365,Mathematics,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.4129,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+366,Mathematics,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.5525,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+367,Mathematics,Mousinho da Silveira,Male,Urban,13,Pass,1,0,0.3789,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+368,Mathematics,Mousinho da Silveira,Female,Rural,0,Fail,0,1,0.5992,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+369,Mathematics,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.5302,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+370,Mathematics,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.538,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+371,Mathematics,Mousinho da Silveira,Female,Urban,9,Fail,0,1,0.5537,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),2,Yes,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+372,Mathematics,Mousinho da Silveira,Male,Rural,12,Pass,1,0,0.5866,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,3,1-4,1 - Under 2 hours,No,No,3 - Medium
+373,Mathematics,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.5021,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,8,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+374,Mathematics,Mousinho da Silveira,Female,Rural,5,Fail,0,1,0.5316,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,14,More than 10,1 - Under 2 hours,Yes,No,5 - Very high
+375,Mathematics,Mousinho da Silveira,Female,Rural,19,Pass,1,0,0.392,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,4 - High
+376,Mathematics,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.4118,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+377,Mathematics,Mousinho da Silveira,Female,Urban,15,Pass,1,0,0.5502,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",2,Yes,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+378,Mathematics,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.5477,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+379,Mathematics,Mousinho da Silveira,Female,Urban,15,Pass,1,0,0.4676,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+380,Mathematics,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.6279,High,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,17,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+381,Mathematics,Mousinho da Silveira,Male,Urban,14,Pass,1,0,0.4503,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+382,Mathematics,Mousinho da Silveira,Male,Rural,7,Fail,0,1,0.5316,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,5,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+383,Mathematics,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.322,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+384,Mathematics,Mousinho da Silveira,Male,Rural,0,Fail,0,1,0.7184,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+385,Mathematics,Mousinho da Silveira,Male,Rural,5,Fail,0,1,0.6511,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,14,More than 10,1 - Under 2 hours,Yes,No,3 - Medium
+386,Mathematics,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.3808,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+387,Mathematics,Mousinho da Silveira,Female,Rural,6,Fail,0,1,0.4581,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,7,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+388,Mathematics,Mousinho da Silveira,Female,Rural,0,Fail,0,1,0.5578,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+389,Mathematics,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.5427,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+390,Mathematics,Mousinho da Silveira,Female,Urban,0,Fail,0,1,0.6678,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+391,Mathematics,Mousinho da Silveira,Male,Urban,9,Fail,0,1,0.6619,High,D - High-risk repeaters,Yes,True positive (correctly flagged),2,Yes,11,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+392,Mathematics,Mousinho da Silveira,Male,Urban,16,Pass,1,0,0.4763,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,3,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+393,Mathematics,Mousinho da Silveira,Male,Rural,7,Fail,0,1,0.7183,High,D - High-risk repeaters,Yes,True positive (correctly flagged),3,Yes,3,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+394,Mathematics,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.4485,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+395,Mathematics,Mousinho da Silveira,Male,Urban,9,Fail,0,1,0.4684,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,5,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+396,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.221,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+397,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.227,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+398,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.2878,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,Yes,2 - Low
+399,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2345,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+400,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1353,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+401,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.0866,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+402,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1976,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+403,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2068,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+404,Portuguese,Gabriel Pereira,Male,Urban,17,Pass,1,0,0.0892,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+405,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1551,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+406,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.0716,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+407,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1387,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+408,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.0937,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+409,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.0654,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+410,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.1948,Low,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+411,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.221,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,4 - High
+412,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1634,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+413,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1722,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,2 - Low
+414,Portuguese,Gabriel Pereira,Male,Urban,7,Fail,0,1,0.6541,High,C - Disengaged social,Yes,True positive (correctly flagged),3,Yes,2,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+415,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.1515,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+416,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.0938,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+417,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.191,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+418,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1556,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+419,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.2613,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+420,Portuguese,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.1455,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,2 - Low
+421,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.2644,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,2 - Low
+422,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.1404,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,2 - Low
+423,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3436,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,4 - High
+424,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1912,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+425,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.3599,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+426,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.2711,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+427,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.1308,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+428,Portuguese,Gabriel Pereira,Male,Rural,15,Pass,1,0,0.221,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+429,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.1953,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+430,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.1862,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+431,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2277,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,1 - Very low
+432,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.0986,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+433,Portuguese,Gabriel Pereira,Male,Rural,13,Pass,1,0,0.1311,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+434,Portuguese,Gabriel Pereira,Female,Rural,12,Pass,1,0,0.2038,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,2 - Low
+435,Portuguese,Gabriel Pereira,Female,Rural,12,Pass,1,0,0.264,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,Yes,1 - Very low
+436,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.2956,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,16,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+437,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3161,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+438,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.08,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+439,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.191,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,1 - Very low
+440,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4239,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,14,More than 10,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+441,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.1513,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,2 - Low
+442,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2518,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+443,Portuguese,Gabriel Pereira,Male,Urban,17,Pass,1,0,0.0847,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,4 - Over 10 hours,Yes,No,2 - Low
+444,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.0879,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+445,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1986,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+446,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1438,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+447,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.0928,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+448,Portuguese,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.2874,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+449,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.3527,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,4 - High
+450,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.3168,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,4 - High
+451,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1484,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+452,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1007,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+453,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.2383,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+454,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1889,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,2 - Low
+455,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.1373,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+456,Portuguese,Gabriel Pereira,Female,Rural,16,Pass,1,0,0.257,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+457,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.4812,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,5 - Very high
+458,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.1655,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,3 - Medium
+459,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2119,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,Yes,4 - High
+460,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.2035,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,4 - High
+461,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.0788,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+462,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.2574,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,3 - Medium
+463,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.1283,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,Yes,3 - Medium
+464,Portuguese,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.1962,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,3 - Medium
+465,Portuguese,Gabriel Pereira,Female,Rural,15,Pass,1,0,0.2055,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,2 - Low
+466,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.1802,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,4 - Over 10 hours,Yes,No,2 - Low
+467,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.1394,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,3 - Medium
+468,Portuguese,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.309,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+469,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1984,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+470,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.1985,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+471,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.0827,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+472,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.1389,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,3 - Medium
+473,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1167,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,1,1-4,4 - Over 10 hours,Yes,No,3 - Medium
+474,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5803,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",3,Yes,0,None (0),1 - Under 2 hours,No,Yes,1 - Very low
+475,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2409,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,14,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+476,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.2936,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,2 - Low
+477,Portuguese,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.132,Low,B - Steady middle,No,"False negative (missed, failed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,2 - Low
+478,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.146,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+479,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1777,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+480,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.2455,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+481,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1108,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+482,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.1163,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+483,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.0553,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+484,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.1041,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+485,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.2463,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+486,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.1318,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+487,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2269,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+488,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.258,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,3 - Medium
+489,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.0763,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+490,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.1432,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,4 - Over 10 hours,Yes,No,4 - High
+491,Portuguese,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.3138,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,4 - Over 10 hours,Yes,Yes,2 - Low
+492,Portuguese,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.2839,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,Yes,3 - Medium
+493,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.2629,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+494,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1404,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+495,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2218,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,5 - Very high
+496,Portuguese,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.5158,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,12,More than 10,1 - Under 2 hours,Yes,Yes,5 - Very high
+497,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.1559,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+498,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.1431,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+499,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.2831,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,16,More than 10,2 - 2 to 5 hours,Yes,Yes,5 - Very high
+500,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.1478,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+501,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.2266,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,4 - Over 10 hours,Yes,Yes,3 - Medium
+502,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.1631,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,4 - Over 10 hours,Yes,Yes,2 - Low
+503,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.0852,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+504,Portuguese,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.3602,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,8,5-10,4 - Over 10 hours,Yes,No,5 - Very high
+505,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2101,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,5 - Very high
+506,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1039,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+507,Portuguese,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.1259,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,Yes,2 - Low
+508,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4207,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,12,More than 10,2 - 2 to 5 hours,Yes,Yes,2 - Low
+509,Portuguese,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.2027,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,1 - Under 2 hours,Yes,No,2 - Low
+510,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.3347,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+511,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1863,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+512,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.1146,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+513,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.187,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,2 - Low
+514,Portuguese,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.6465,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,14,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+515,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1119,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+516,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1441,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+517,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.2135,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,4 - High
+518,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1515,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+519,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1467,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+520,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.1013,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+521,Portuguese,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.2233,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,2,1-4,1 - Under 2 hours,Yes,Yes,5 - Very high
+522,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2037,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,2 - Low
+523,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.6696,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",2,Yes,0,None (0),2 - 2 to 5 hours,No,No,2 - Low
+524,Portuguese,Gabriel Pereira,Male,Rural,15,Pass,1,0,0.3682,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+525,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1315,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+526,Portuguese,Gabriel Pereira,Female,Rural,12,Pass,1,0,0.2189,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+527,Portuguese,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.686,High,C - Disengaged social,Yes,True positive (correctly flagged),3,Yes,10,5-10,2 - 2 to 5 hours,No,No,5 - Very high
+528,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2576,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,2 - Low
+529,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1748,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+530,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1724,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+531,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2462,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,12,More than 10,1 - Under 2 hours,Yes,No,1 - Very low
+532,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.2957,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,1 - Very low
+533,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4763,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,12,More than 10,1 - Under 2 hours,Yes,No,4 - High
+534,Portuguese,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.201,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+535,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.0753,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+536,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.3597,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+537,Portuguese,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.2445,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+538,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.3767,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+539,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2251,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,10,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+540,Portuguese,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.3083,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+541,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.1338,Low,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,2 - Low
+542,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5985,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",2,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+543,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1663,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,2 - Low
+544,Portuguese,Gabriel Pereira,Female,Rural,9,Fail,0,1,0.5484,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,2,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+545,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.1854,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,Yes,2 - Low
+546,Portuguese,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.2782,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,24,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+547,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1708,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+548,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.2234,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+549,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.0943,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+550,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.3921,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+551,Portuguese,Gabriel Pereira,Male,Urban,6,Fail,0,1,0.3218,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,22,More than 10,1 - Under 2 hours,Yes,No,5 - Very high
+552,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1512,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+553,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.3662,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,No,No,2 - Low
+554,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4213,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",1,Yes,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+555,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2054,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+556,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2598,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+557,Portuguese,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.4147,Elevated,A - Supported achievers,No,"False negative (missed, failed)",0,No,16,More than 10,1 - Under 2 hours,No,No,2 - Low
+558,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.4003,Elevated,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+559,Portuguese,Gabriel Pereira,Male,Urban,0,Fail,0,1,0.6768,High,C - Disengaged social,Yes,True positive (correctly flagged),2,Yes,0,None (0),1 - Under 2 hours,No,No,5 - Very high
+560,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5582,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,6,5-10,1 - Under 2 hours,Yes,No,4 - High
+561,Portuguese,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.2726,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,1 - Very low
+562,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.4363,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,6,5-10,1 - Under 2 hours,No,No,4 - High
+563,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2361,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,Yes,1 - Very low
+564,Portuguese,Gabriel Pereira,Male,Rural,8,Fail,0,1,0.2216,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,4 - High
+565,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.6094,High,C - Disengaged social,Yes,"False positive (flagged, passed)",3,Yes,14,More than 10,1 - Under 2 hours,Yes,No,2 - Low
+566,Portuguese,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.5928,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",3,Yes,6,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+567,Portuguese,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.2096,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,2 - Low
+568,Portuguese,Gabriel Pereira,Male,Urban,1,Fail,0,1,0.5736,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+569,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5815,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",2,Yes,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+570,Portuguese,Gabriel Pereira,Male,Rural,9,Fail,0,1,0.6415,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,8,5-10,1 - Under 2 hours,No,No,2 - Low
+571,Portuguese,Gabriel Pereira,Male,Rural,8,Fail,0,1,0.5128,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),2,Yes,4,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+572,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.3095,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+573,Portuguese,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.6906,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,2,1-4,1 - Under 2 hours,No,No,3 - Medium
+574,Portuguese,Gabriel Pereira,Male,Rural,8,Fail,0,1,0.4882,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,No,No,5 - Very high
+575,Portuguese,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.5544,Elevated,B - Steady middle,Yes,True positive (correctly flagged),3,Yes,10,5-10,1 - Under 2 hours,No,No,2 - Low
+576,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.5799,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,No,No,5 - Very high
+577,Portuguese,Gabriel Pereira,Female,Urban,18,Pass,1,0,0.1902,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+578,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1491,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+579,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.1539,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+580,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5358,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+581,Portuguese,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.2542,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+582,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.0989,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+583,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2224,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+584,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1508,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+585,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.1888,Low,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+586,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1913,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+587,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.169,Low,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+588,Portuguese,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.2837,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+589,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1537,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+590,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.1955,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+591,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.0881,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+592,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.206,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+593,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.467,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,32,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+594,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.1867,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+595,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.3478,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+596,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.2219,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+597,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.2015,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+598,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2209,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+599,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.2476,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+600,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1189,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+601,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1801,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+602,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.4711,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,16,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+603,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.2246,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+604,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.1623,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+605,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.1604,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+606,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1966,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+607,Portuguese,Gabriel Pereira,Male,Rural,12,Pass,1,0,0.3612,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,16,More than 10,1 - Under 2 hours,Yes,No,4 - High
+608,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.5502,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",1,Yes,30,More than 10,1 - Under 2 hours,Yes,No,4 - High
+609,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.089,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+610,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1428,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+611,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1567,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+612,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.2524,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+613,Portuguese,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.3026,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,21,More than 10,1 - Under 2 hours,Yes,No,2 - Low
+614,Portuguese,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.2602,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,5 - Very high
+615,Portuguese,Gabriel Pereira,Female,Urban,8,Fail,0,1,0.5974,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,14,More than 10,3 - 5 to 10 hours,Yes,No,3 - Medium
+616,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1126,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+617,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1161,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+618,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2472,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,2 - Low
+619,Portuguese,Gabriel Pereira,Female,Rural,12,Pass,1,0,0.1417,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+620,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1172,Low,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,4,1-4,4 - Over 10 hours,Yes,No,3 - Medium
+621,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.5146,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,15,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+622,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2164,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,4 - High
+623,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3641,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+624,Portuguese,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.2733,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,1 - Very low
+625,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1297,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+626,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4547,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,16,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+627,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.2825,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+628,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1803,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+629,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.0997,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+630,Portuguese,Gabriel Pereira,Female,Rural,11,Pass,1,0,0.239,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+631,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.3184,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,12,More than 10,3 - 5 to 10 hours,Yes,No,4 - High
+632,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2363,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,1 - Very low
+633,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5976,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",3,Yes,9,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+634,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.0965,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+635,Portuguese,Gabriel Pereira,Female,Rural,8,Fail,0,1,0.1823,Low,B - Steady middle,No,"False negative (missed, failed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+636,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.1481,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+637,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.0948,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+638,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3365,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,2 - Low
+639,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.124,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+640,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1518,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+641,Portuguese,Gabriel Pereira,Male,Rural,13,Pass,1,0,0.1891,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+642,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.3124,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,5 - Very high
+643,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.084,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+644,Portuguese,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.1554,Low,B - Steady middle,No,"False negative (missed, failed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+645,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.1429,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+646,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.3336,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+647,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.2561,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,2 - Low
+648,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2376,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+649,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4127,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",1,Yes,18,More than 10,2 - 2 to 5 hours,Yes,No,3 - Medium
+650,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.5648,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,16,More than 10,2 - 2 to 5 hours,Yes,No,1 - Very low
+651,Portuguese,Gabriel Pereira,Female,Urban,7,Fail,0,1,0.5451,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,14,More than 10,1 - Under 2 hours,No,No,1 - Very low
+652,Portuguese,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.5805,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),1,Yes,26,More than 10,1 - Under 2 hours,No,No,3 - Medium
+653,Portuguese,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.0965,Low,A - Supported achievers,No,"False negative (missed, failed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,1 - Very low
+654,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1436,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+655,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.1528,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,10,5-10,3 - 5 to 10 hours,Yes,No,2 - Low
+656,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4866,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,4,1-4,1 - Under 2 hours,No,No,5 - Very high
+657,Portuguese,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.3368,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+658,Portuguese,Gabriel Pereira,Female,Rural,8,Fail,0,1,0.4445,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),1,Yes,14,More than 10,1 - Under 2 hours,Yes,No,4 - High
+659,Portuguese,Gabriel Pereira,Male,Urban,8,Fail,0,1,0.5106,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,16,More than 10,2 - 2 to 5 hours,No,No,4 - High
+660,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.4941,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,8,5-10,1 - Under 2 hours,No,No,2 - Low
+661,Portuguese,Gabriel Pereira,Female,Rural,15,Pass,1,0,0.2894,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+662,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.125,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+663,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.3303,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+664,Portuguese,Gabriel Pereira,Male,Rural,12,Pass,1,0,0.146,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+665,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.1303,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,7,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+666,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.1145,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,2 - Low
+667,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.2137,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+668,Portuguese,Gabriel Pereira,Male,Rural,15,Pass,1,0,0.2214,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+669,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.1873,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,3 - 5 to 10 hours,Yes,No,2 - Low
+670,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.227,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,Yes,2 - Low
+671,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2816,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,10,5-10,3 - 5 to 10 hours,Yes,No,4 - High
+672,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.1613,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,7,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+673,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2264,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+674,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.1299,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,2 - Low
+675,Portuguese,Gabriel Pereira,Male,Urban,5,Fail,0,1,0.7531,High,C - Disengaged social,Yes,True positive (correctly flagged),3,Yes,12,More than 10,1 - Under 2 hours,No,No,5 - Very high
+676,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.2429,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+677,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.2071,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+678,Portuguese,Gabriel Pereira,Male,Urban,7,Fail,0,1,0.5362,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,8,5-10,1 - Under 2 hours,No,No,5 - Very high
+679,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.4208,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+680,Portuguese,Gabriel Pereira,Male,Urban,6,Fail,0,1,0.6675,High,C - Disengaged social,Yes,True positive (correctly flagged),2,Yes,4,1-4,1 - Under 2 hours,No,No,5 - Very high
+681,Portuguese,Gabriel Pereira,Male,Rural,12,Pass,1,0,0.2355,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,2 - Low
+682,Portuguese,Gabriel Pereira,Male,Rural,13,Pass,1,0,0.3464,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+683,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5694,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),1 - Under 2 hours,Yes,No,4 - High
+684,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2143,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+685,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.0546,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,4 - Over 10 hours,Yes,No,3 - Medium
+686,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.1935,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+687,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.5757,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,2 - 2 to 5 hours,No,No,5 - Very high
+688,Portuguese,Gabriel Pereira,Female,Rural,14,Pass,1,0,0.1286,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,4 - High
+689,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1853,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+690,Portuguese,Gabriel Pereira,Female,Rural,13,Pass,1,0,0.3188,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,Yes,3 - Medium
+691,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.101,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+692,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.2503,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+693,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.4742,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,No,No,2 - Low
+694,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1187,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,4 - Over 10 hours,Yes,No,1 - Very low
+695,Portuguese,Gabriel Pereira,Female,Rural,12,Pass,1,0,0.4169,Elevated,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,No,No,3 - Medium
+696,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1369,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+697,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.0969,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+698,Portuguese,Gabriel Pereira,Male,Rural,12,Pass,1,0,0.3145,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+699,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1355,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+700,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.0979,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+701,Portuguese,Gabriel Pereira,Male,Urban,9,Fail,0,1,0.4237,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,8,5-10,1 - Under 2 hours,No,No,4 - High
+702,Portuguese,Gabriel Pereira,Male,Rural,16,Pass,1,0,0.2701,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+703,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.4149,Elevated,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+704,Portuguese,Gabriel Pereira,Female,Rural,12,Pass,1,0,0.2096,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+705,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.2272,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+706,Portuguese,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.453,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,12,More than 10,2 - 2 to 5 hours,No,No,5 - Very high
+707,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.3714,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,16,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+708,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.2917,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,10,5-10,4 - Over 10 hours,Yes,No,5 - Very high
+709,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1509,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+710,Portuguese,Gabriel Pereira,Male,Rural,18,Pass,1,0,0.2617,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+711,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.2267,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+712,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.1693,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+713,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.2973,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,Yes,4 - High
+714,Portuguese,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.5178,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,15,More than 10,2 - 2 to 5 hours,No,No,1 - Very low
+715,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.2377,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,4 - High
+716,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.416,Elevated,A - Supported achievers,No,"True negative (not flagged, passed)",1,Yes,2,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+717,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1257,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+718,Portuguese,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.6551,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),2 - 2 to 5 hours,No,Yes,3 - Medium
+719,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.1055,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+720,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.5579,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",0,No,10,5-10,1 - Under 2 hours,No,No,4 - High
+721,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.5055,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,22,More than 10,1 - Under 2 hours,Yes,No,4 - High
+722,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.4732,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,18,More than 10,1 - Under 2 hours,Yes,No,4 - High
+723,Portuguese,Gabriel Pereira,Female,Rural,18,Pass,1,0,0.1964,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,4 - Over 10 hours,Yes,No,2 - Low
+724,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.3629,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,4 - High
+725,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.3761,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,12,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+726,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2136,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,1 - Very low
+727,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.2113,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+728,Portuguese,Gabriel Pereira,Female,Urban,18,Pass,1,0,0.0934,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+729,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1894,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+730,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.1863,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,4 - High
+731,Portuguese,Gabriel Pereira,Male,Urban,17,Pass,1,0,0.1227,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+732,Portuguese,Gabriel Pereira,Male,Urban,16,Pass,1,0,0.1721,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+733,Portuguese,Gabriel Pereira,Female,Urban,18,Pass,1,0,0.0989,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+734,Portuguese,Gabriel Pereira,Female,Rural,19,Pass,1,0,0.1804,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,2 - Low
+735,Portuguese,Gabriel Pereira,Male,Rural,15,Pass,1,0,0.175,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+736,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.1229,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+737,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1433,Low,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+738,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2156,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+739,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.0737,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,3 - Medium
+740,Portuguese,Gabriel Pereira,Male,Urban,17,Pass,1,0,0.2232,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+741,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.2754,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+742,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.2109,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+743,Portuguese,Gabriel Pereira,Female,Rural,8,Fail,0,1,0.1259,Low,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,4 - High
+744,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.0829,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+745,Portuguese,Gabriel Pereira,Female,Urban,18,Pass,1,0,0.1368,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,2 - Low
+746,Portuguese,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.5945,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),3 - 5 to 10 hours,Yes,No,1 - Very low
+747,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.5682,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",2,Yes,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+748,Portuguese,Gabriel Pereira,Male,Rural,11,Pass,1,0,0.1942,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+749,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.2785,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,Yes,4 - High
+750,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1504,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+751,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1166,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+752,Portuguese,Gabriel Pereira,Female,Rural,17,Pass,1,0,0.2567,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+753,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.1031,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,4 - High
+754,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.187,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,4 - High
+755,Portuguese,Gabriel Pereira,Female,Rural,17,Pass,1,0,0.2836,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,4 - High
+756,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1933,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+757,Portuguese,Gabriel Pereira,Male,Urban,10,Pass,1,0,0.2382,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,9,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+758,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1777,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+759,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1533,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+760,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.1039,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+761,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.2895,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,14,More than 10,2 - 2 to 5 hours,Yes,No,2 - Low
+762,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1626,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,3 - Medium
+763,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1753,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+764,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.2281,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+765,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.5303,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",0,No,12,More than 10,3 - 5 to 10 hours,No,No,5 - Very high
+766,Portuguese,Gabriel Pereira,Female,Urban,9,Fail,0,1,0.5233,Elevated,D - High-risk repeaters,Yes,True positive (correctly flagged),2,Yes,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+767,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.3121,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+768,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.0819,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+769,Portuguese,Gabriel Pereira,Female,Rural,10,Pass,1,0,0.1555,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+770,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.1562,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+771,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1404,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+772,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2854,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,5 - Very high
+773,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.084,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+774,Portuguese,Gabriel Pereira,Male,Urban,17,Pass,1,0,0.2924,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+775,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.4249,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+776,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1726,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,4 - High
+777,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1939,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+778,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.3297,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+779,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.3645,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,5 - Very high
+780,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.3628,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,4 - High
+781,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.2034,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+782,Portuguese,Gabriel Pereira,Female,Rural,15,Pass,1,0,0.1263,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+783,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.2409,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,2 - Low
+784,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.1866,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+785,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.2165,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+786,Portuguese,Gabriel Pereira,Female,Rural,14,Pass,1,0,0.1492,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,6,5-10,4 - Over 10 hours,Yes,No,4 - High
+787,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.1874,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,8,5-10,3 - 5 to 10 hours,Yes,No,5 - Very high
+788,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1119,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+789,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.0933,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,4 - Over 10 hours,Yes,No,3 - Medium
+790,Portuguese,Gabriel Pereira,Female,Rural,16,Pass,1,0,0.1836,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+791,Portuguese,Gabriel Pereira,Male,Urban,13,Pass,1,0,0.0998,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+792,Portuguese,Gabriel Pereira,Male,Urban,17,Pass,1,0,0.1101,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+793,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.2648,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,18,More than 10,2 - 2 to 5 hours,Yes,No,1 - Very low
+794,Portuguese,Gabriel Pereira,Female,Urban,14,Pass,1,0,0.0724,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+795,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.2139,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+796,Portuguese,Gabriel Pereira,Male,Rural,17,Pass,1,0,0.1793,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+797,Portuguese,Gabriel Pereira,Male,Urban,14,Pass,1,0,0.1596,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,5 - Very high
+798,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.1223,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+799,Portuguese,Gabriel Pereira,Female,Urban,15,Pass,1,0,0.1699,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+800,Portuguese,Gabriel Pereira,Female,Urban,16,Pass,1,0,0.2339,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+801,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.6075,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,16,More than 10,1 - Under 2 hours,No,No,3 - Medium
+802,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.4691,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,6,5-10,1 - Under 2 hours,Yes,No,2 - Low
+803,Portuguese,Gabriel Pereira,Female,Urban,12,Pass,1,0,0.4615,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",2,Yes,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+804,Portuguese,Gabriel Pereira,Male,Urban,12,Pass,1,0,0.5292,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,11,More than 10,2 - 2 to 5 hours,No,No,4 - High
+805,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.2569,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,9,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+806,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.1645,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+807,Portuguese,Gabriel Pereira,Male,Urban,15,Pass,1,0,0.066,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+808,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.0516,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+809,Portuguese,Gabriel Pereira,Male,Rural,10,Pass,1,0,0.6888,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",2,Yes,21,More than 10,2 - 2 to 5 hours,No,No,3 - Medium
+810,Portuguese,Gabriel Pereira,Female,Rural,15,Pass,1,0,0.3115,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,8,5-10,3 - 5 to 10 hours,Yes,No,2 - Low
+811,Portuguese,Gabriel Pereira,Female,Urban,11,Pass,1,0,0.4769,Elevated,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,5,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+812,Portuguese,Gabriel Pereira,Male,Urban,18,Pass,1,0,0.2489,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+813,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.093,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,5,5-10,3 - 5 to 10 hours,Yes,No,4 - High
+814,Portuguese,Gabriel Pereira,Male,Rural,14,Pass,1,0,0.4631,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,13,More than 10,1 - Under 2 hours,Yes,No,3 - Medium
+815,Portuguese,Gabriel Pereira,Male,Urban,11,Pass,1,0,0.3254,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,10,5-10,1 - Under 2 hours,Yes,No,4 - High
+816,Portuguese,Gabriel Pereira,Female,Urban,17,Pass,1,0,0.1487,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+817,Portuguese,Gabriel Pereira,Female,Urban,10,Pass,1,0,0.5476,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,5,5-10,1 - Under 2 hours,Yes,Yes,1 - Very low
+818,Portuguese,Gabriel Pereira,Female,Urban,13,Pass,1,0,0.2043,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+819,Portuguese,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.5381,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,11,More than 10,1 - Under 2 hours,No,No,3 - Medium
+820,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.3168,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+821,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.6445,High,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,6,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+822,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.2955,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+823,Portuguese,Mousinho da Silveira,Female,Rural,17,Pass,1,0,0.2385,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+824,Portuguese,Mousinho da Silveira,Female,Rural,9,Fail,0,1,0.5487,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),1 - Under 2 hours,No,No,4 - High
+825,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.3518,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,5,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+826,Portuguese,Mousinho da Silveira,Male,Urban,11,Pass,1,0,0.3044,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,Yes,3 - Medium
+827,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.6298,High,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+828,Portuguese,Mousinho da Silveira,Female,Rural,7,Fail,0,1,0.7022,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,No,No,4 - High
+829,Portuguese,Mousinho da Silveira,Female,Rural,14,Pass,1,0,0.4264,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+830,Portuguese,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.3992,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,4 - Over 10 hours,No,No,1 - Very low
+831,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.3047,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+832,Portuguese,Mousinho da Silveira,Female,Rural,8,Fail,0,1,0.6006,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+833,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.3625,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+834,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.2576,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+835,Portuguese,Mousinho da Silveira,Female,Rural,16,Pass,1,0,0.1927,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+836,Portuguese,Mousinho da Silveira,Male,Urban,0,Fail,0,1,0.4962,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+837,Portuguese,Mousinho da Silveira,Male,Urban,9,Fail,0,1,0.408,Elevated,B - Steady middle,No,"False negative (missed, failed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+838,Portuguese,Mousinho da Silveira,Male,Rural,14,Pass,1,0,0.3376,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+839,Portuguese,Mousinho da Silveira,Male,Rural,8,Fail,0,1,0.3124,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,7,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+840,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.4008,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+841,Portuguese,Mousinho da Silveira,Male,Rural,9,Fail,0,1,0.527,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,8,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+842,Portuguese,Mousinho da Silveira,Male,Urban,11,Pass,1,0,0.1612,Low,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+843,Portuguese,Mousinho da Silveira,Male,Rural,9,Fail,0,1,0.6435,High,C - Disengaged social,Yes,True positive (correctly flagged),0,No,8,5-10,1 - Under 2 hours,No,No,5 - Very high
+844,Portuguese,Mousinho da Silveira,Female,Rural,17,Pass,1,0,0.3085,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,3 - 5 to 10 hours,Yes,No,2 - Low
+845,Portuguese,Mousinho da Silveira,Female,Rural,13,Pass,1,0,0.3391,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,3,1-4,1 - Under 2 hours,Yes,No,2 - Low
+846,Portuguese,Mousinho da Silveira,Female,Rural,15,Pass,1,0,0.2617,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+847,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.1788,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+848,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.3271,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+849,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.5873,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+850,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.5842,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,3,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+851,Portuguese,Mousinho da Silveira,Female,Urban,9,Fail,0,1,0.3769,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,2 - Low
+852,Portuguese,Mousinho da Silveira,Female,Urban,15,Pass,1,0,0.2848,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+853,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.4435,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+854,Portuguese,Mousinho da Silveira,Female,Rural,13,Pass,1,0,0.2359,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,2 - Low
+855,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.3829,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,3 - Medium
+856,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.2907,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,1,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+857,Portuguese,Mousinho da Silveira,Female,Rural,14,Pass,1,0,0.5708,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+858,Portuguese,Mousinho da Silveira,Female,Rural,14,Pass,1,0,0.3168,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+859,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.3232,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,Yes,3 - Medium
+860,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.5309,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,4 - High
+861,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.6386,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,9,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+862,Portuguese,Mousinho da Silveira,Male,Urban,11,Pass,1,0,0.4829,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+863,Portuguese,Mousinho da Silveira,Female,Rural,14,Pass,1,0,0.2169,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,1,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+864,Portuguese,Mousinho da Silveira,Male,Urban,13,Pass,1,0,0.2383,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,1,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+865,Portuguese,Mousinho da Silveira,Male,Urban,13,Pass,1,0,0.3352,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+866,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.3145,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+867,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.6378,High,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+868,Portuguese,Mousinho da Silveira,Female,Rural,16,Pass,1,0,0.3146,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+869,Portuguese,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.4456,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+870,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.2794,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+871,Portuguese,Mousinho da Silveira,Female,Urban,14,Pass,1,0,0.1597,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+872,Portuguese,Mousinho da Silveira,Female,Rural,8,Fail,0,1,0.3276,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+873,Portuguese,Mousinho da Silveira,Male,Urban,11,Pass,1,0,0.3756,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,11,More than 10,1 - Under 2 hours,Yes,No,3 - Medium
+874,Portuguese,Mousinho da Silveira,Female,Rural,8,Fail,0,1,0.5621,Elevated,B - Steady middle,Yes,True positive (correctly flagged),3,Yes,0,None (0),2 - 2 to 5 hours,Yes,Yes,3 - Medium
+875,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.3988,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,No,No,3 - Medium
+876,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.7068,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),1 - Under 2 hours,No,No,4 - High
+877,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.4769,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,2,1-4,1 - Under 2 hours,No,No,3 - Medium
+878,Portuguese,Mousinho da Silveira,Female,Rural,9,Fail,0,1,0.5832,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),1 - Under 2 hours,No,No,1 - Very low
+879,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.4753,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,1,1-4,2 - 2 to 5 hours,No,No,5 - Very high
+880,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.4335,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,6,5-10,1 - Under 2 hours,No,No,4 - High
+881,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.2758,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+882,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.5606,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,1,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+883,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.6194,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",2,Yes,6,5-10,3 - 5 to 10 hours,No,No,2 - Low
+884,Portuguese,Mousinho da Silveira,Female,Urban,9,Fail,0,1,0.5488,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,6,5-10,3 - 5 to 10 hours,No,No,1 - Very low
+885,Portuguese,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.6666,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),1 - Under 2 hours,No,No,3 - Medium
+886,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.6976,High,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,1 - Under 2 hours,No,No,3 - Medium
+887,Portuguese,Mousinho da Silveira,Female,Urban,9,Fail,0,1,0.657,High,D - High-risk repeaters,Yes,True positive (correctly flagged),1,Yes,12,More than 10,2 - 2 to 5 hours,Yes,No,4 - High
+888,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.2651,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+889,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.5067,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,5,5-10,1 - Under 2 hours,Yes,No,4 - High
+890,Portuguese,Mousinho da Silveira,Female,Rural,9,Fail,0,1,0.527,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,No,No,5 - Very high
+891,Portuguese,Mousinho da Silveira,Female,Urban,13,Pass,1,0,0.4273,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,No,No,4 - High
+892,Portuguese,Mousinho da Silveira,Female,Rural,14,Pass,1,0,0.4098,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,4 - High
+893,Portuguese,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.7413,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),4 - Over 10 hours,Yes,No,5 - Very high
+894,Portuguese,Mousinho da Silveira,Female,Urban,14,Pass,1,0,0.3566,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+895,Portuguese,Mousinho da Silveira,Female,Urban,16,Pass,1,0,0.2973,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+896,Portuguese,Mousinho da Silveira,Male,Urban,7,Fail,0,1,0.7744,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,12,More than 10,1 - Under 2 hours,No,No,5 - Very high
+897,Portuguese,Mousinho da Silveira,Male,Urban,13,Pass,1,0,0.4037,Elevated,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+898,Portuguese,Mousinho da Silveira,Male,Rural,9,Fail,0,1,0.5481,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,2,1-4,4 - Over 10 hours,Yes,No,5 - Very high
+899,Portuguese,Mousinho da Silveira,Female,Urban,14,Pass,1,0,0.3809,Moderate,D - High-risk repeaters,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,Yes,1 - Very low
+900,Portuguese,Mousinho da Silveira,Female,Urban,13,Pass,1,0,0.2406,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,5 - Very high
+901,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.4101,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+902,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.7105,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+903,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.2939,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+904,Portuguese,Mousinho da Silveira,Male,Rural,9,Fail,0,1,0.5737,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+905,Portuguese,Mousinho da Silveira,Female,Rural,18,Pass,1,0,0.348,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+906,Portuguese,Mousinho da Silveira,Female,Rural,17,Pass,1,0,0.2266,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+907,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.3141,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,1,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+908,Portuguese,Mousinho da Silveira,Female,Rural,7,Fail,0,1,0.6208,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,9,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+909,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.3852,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+910,Portuguese,Mousinho da Silveira,Female,Urban,7,Fail,0,1,0.2864,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+911,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.3915,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,Yes,5 - Very high
+912,Portuguese,Mousinho da Silveira,Female,Rural,16,Pass,1,0,0.2312,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+913,Portuguese,Mousinho da Silveira,Female,Rural,15,Pass,1,0,0.3903,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+914,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.536,Elevated,A - Supported achievers,Yes,True positive (correctly flagged),1,Yes,8,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+915,Portuguese,Mousinho da Silveira,Male,Rural,0,Fail,0,1,0.3041,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+916,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.3343,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+917,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.2384,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+918,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.2058,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+919,Portuguese,Mousinho da Silveira,Male,Urban,6,Fail,0,1,0.5379,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,2,1-4,4 - Over 10 hours,No,No,5 - Very high
+920,Portuguese,Mousinho da Silveira,Female,Rural,8,Fail,0,1,0.2392,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+921,Portuguese,Mousinho da Silveira,Male,Urban,16,Pass,1,0,0.2175,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+922,Portuguese,Mousinho da Silveira,Female,Rural,14,Pass,1,0,0.3615,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,1,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+923,Portuguese,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.2586,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+924,Portuguese,Mousinho da Silveira,Female,Rural,9,Fail,0,1,0.3297,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,5,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+925,Portuguese,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.2699,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,1,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+926,Portuguese,Mousinho da Silveira,Male,Urban,9,Fail,0,1,0.3616,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,4 - High
+927,Portuguese,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.399,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+928,Portuguese,Mousinho da Silveira,Male,Urban,8,Fail,0,1,0.365,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,2 - Low
+929,Portuguese,Mousinho da Silveira,Female,Urban,16,Pass,1,0,0.3472,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+930,Portuguese,Mousinho da Silveira,Male,Urban,12,Pass,1,0,0.2917,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+931,Portuguese,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.5124,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,11,More than 10,2 - 2 to 5 hours,Yes,No,5 - Very high
+932,Portuguese,Mousinho da Silveira,Male,Urban,14,Pass,1,0,0.349,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,4 - Over 10 hours,Yes,No,5 - Very high
+933,Portuguese,Mousinho da Silveira,Male,Urban,12,Pass,1,0,0.3595,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,11,More than 10,1 - Under 2 hours,Yes,No,3 - Medium
+934,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.2888,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,3 - 5 to 10 hours,Yes,No,3 - Medium
+935,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.3952,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+936,Portuguese,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.3462,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,5,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+937,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.3873,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,3 - Medium
+938,Portuguese,Mousinho da Silveira,Female,Urban,12,Pass,1,0,0.328,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,1,1-4,3 - 5 to 10 hours,Yes,No,5 - Very high
+939,Portuguese,Mousinho da Silveira,Male,Rural,8,Fail,0,1,0.5529,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),3,Yes,2,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+940,Portuguese,Mousinho da Silveira,Male,Rural,12,Pass,1,0,0.3931,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,2 - Low
+941,Portuguese,Mousinho da Silveira,Male,Urban,8,Fail,0,1,0.6357,High,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+942,Portuguese,Mousinho da Silveira,Female,Urban,16,Pass,1,0,0.2859,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+943,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.345,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+944,Portuguese,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.3529,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+945,Portuguese,Mousinho da Silveira,Female,Rural,18,Pass,1,0,0.3255,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,3 - Medium
+946,Portuguese,Mousinho da Silveira,Male,Urban,13,Pass,1,0,0.2858,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+947,Portuguese,Mousinho da Silveira,Male,Urban,13,Pass,1,0,0.345,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+948,Portuguese,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.7408,High,C - Disengaged social,Yes,"False positive (flagged, passed)",2,Yes,2,1-4,2 - 2 to 5 hours,No,No,3 - Medium
+949,Portuguese,Mousinho da Silveira,Male,Urban,12,Pass,1,0,0.418,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,2 - Low
+950,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.5096,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,3,1-4,1 - Under 2 hours,No,No,5 - Very high
+951,Portuguese,Mousinho da Silveira,Female,Rural,13,Pass,1,0,0.2985,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,5,5-10,3 - 5 to 10 hours,Yes,Yes,4 - High
+952,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.4632,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+953,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.7268,High,B - Steady middle,Yes,"False positive (flagged, passed)",3,Yes,2,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+954,Portuguese,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.6498,High,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,No,No,5 - Very high
+955,Portuguese,Mousinho da Silveira,Male,Rural,13,Pass,1,0,0.6654,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,0,None (0),1 - Under 2 hours,Yes,Yes,2 - Low
+956,Portuguese,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.5795,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+957,Portuguese,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.445,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+958,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.2782,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+959,Portuguese,Mousinho da Silveira,Male,Urban,0,Fail,0,1,0.7292,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+960,Portuguese,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.4938,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+961,Portuguese,Mousinho da Silveira,Male,Rural,9,Fail,0,1,0.3987,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,5 - Very high
+962,Portuguese,Mousinho da Silveira,Male,Rural,9,Fail,0,1,0.743,High,D - High-risk repeaters,Yes,True positive (correctly flagged),1,Yes,2,1-4,1 - Under 2 hours,No,No,3 - Medium
+963,Portuguese,Mousinho da Silveira,Male,Rural,0,Fail,0,1,0.8373,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,No,No,1 - Very low
+964,Portuguese,Mousinho da Silveira,Male,Urban,9,Fail,0,1,0.6269,High,B - Steady middle,Yes,True positive (correctly flagged),3,Yes,4,1-4,1 - Under 2 hours,Yes,No,1 - Very low
+965,Portuguese,Mousinho da Silveira,Male,Urban,8,Fail,0,1,0.7532,High,C - Disengaged social,Yes,True positive (correctly flagged),2,Yes,9,5-10,2 - 2 to 5 hours,No,No,5 - Very high
+966,Portuguese,Mousinho da Silveira,Male,Rural,8,Fail,0,1,0.3788,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,3 - Medium
+967,Portuguese,Mousinho da Silveira,Male,Urban,9,Fail,0,1,0.6522,High,D - High-risk repeaters,Yes,True positive (correctly flagged),3,Yes,4,1-4,1 - Under 2 hours,No,No,3 - Medium
+968,Portuguese,Mousinho da Silveira,Female,Urban,7,Fail,0,1,0.6358,High,B - Steady middle,Yes,True positive (correctly flagged),2,Yes,8,5-10,2 - 2 to 5 hours,Yes,No,5 - Very high
+969,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.3833,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,9,5-10,1 - Under 2 hours,Yes,No,2 - Low
+970,Portuguese,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.7717,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,12,More than 10,1 - Under 2 hours,No,No,3 - Medium
+971,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.4732,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,4 - High
+972,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.4706,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+973,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.7404,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,8,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+974,Portuguese,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.6865,High,C - Disengaged social,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+975,Portuguese,Mousinho da Silveira,Male,Urban,9,Fail,0,1,0.566,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,0,None (0),1 - Under 2 hours,No,No,3 - Medium
+976,Portuguese,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.7224,High,D - High-risk repeaters,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,1 - Under 2 hours,Yes,No,4 - High
+977,Portuguese,Mousinho da Silveira,Female,Urban,8,Fail,0,1,0.6539,High,B - Steady middle,Yes,True positive (correctly flagged),2,Yes,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+978,Portuguese,Mousinho da Silveira,Female,Urban,7,Fail,0,1,0.5624,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),1 - Under 2 hours,No,No,4 - High
+979,Portuguese,Mousinho da Silveira,Female,Rural,0,Fail,0,1,0.6436,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,No,No,5 - Very high
+980,Portuguese,Mousinho da Silveira,Female,Rural,11,Pass,1,0,0.4128,Elevated,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+981,Portuguese,Mousinho da Silveira,Female,Rural,8,Fail,0,1,0.3695,Moderate,D - High-risk repeaters,No,"False negative (missed, failed)",0,No,5,5-10,3 - 5 to 10 hours,No,No,3 - Medium
+982,Portuguese,Mousinho da Silveira,Female,Urban,0,Fail,0,1,0.2641,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,Yes,5 - Very high
+983,Portuguese,Mousinho da Silveira,Female,Rural,8,Fail,0,1,0.684,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,3,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+984,Portuguese,Mousinho da Silveira,Female,Urban,9,Fail,0,1,0.2724,Moderate,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+985,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.3233,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+986,Portuguese,Mousinho da Silveira,Female,Urban,7,Fail,0,1,0.7305,High,B - Steady middle,Yes,True positive (correctly flagged),2,Yes,3,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+987,Portuguese,Mousinho da Silveira,Female,Urban,14,Pass,1,0,0.2009,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+988,Portuguese,Mousinho da Silveira,Female,Urban,13,Pass,1,0,0.2249,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+989,Portuguese,Mousinho da Silveira,Female,Urban,14,Pass,1,0,0.2164,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+990,Portuguese,Mousinho da Silveira,Female,Urban,18,Pass,1,0,0.2431,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,5 - Very high
+991,Portuguese,Mousinho da Silveira,Male,Urban,17,Pass,1,0,0.3168,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,3,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+992,Portuguese,Mousinho da Silveira,Female,Urban,18,Pass,1,0,0.1759,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+993,Portuguese,Mousinho da Silveira,Female,Rural,0,Fail,0,1,0.6011,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+994,Portuguese,Mousinho da Silveira,Male,Urban,11,Pass,1,0,0.5175,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,8,5-10,1 - Under 2 hours,Yes,No,4 - High
+995,Portuguese,Mousinho da Silveira,Male,Rural,14,Pass,1,0,0.4251,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",0,No,5,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+996,Portuguese,Mousinho da Silveira,Male,Rural,14,Pass,1,0,0.468,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,4,1-4,1 - Under 2 hours,No,No,3 - Medium
+997,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.3884,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,1 - Very low
+998,Portuguese,Mousinho da Silveira,Female,Urban,13,Pass,1,0,0.2777,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,5 - Very high
+999,Portuguese,Mousinho da Silveira,Female,Rural,0,Fail,0,1,0.1843,Low,A - Supported achievers,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,1 - Very low
+1000,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.6959,High,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,2,1-4,2 - 2 to 5 hours,No,No,2 - Low
+1001,Portuguese,Mousinho da Silveira,Female,Urban,0,Fail,0,1,0.7617,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,No,No,5 - Very high
+1002,Portuguese,Mousinho da Silveira,Female,Urban,18,Pass,1,0,0.219,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),4 - Over 10 hours,Yes,No,3 - Medium
+1003,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.3975,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,5,5-10,2 - 2 to 5 hours,Yes,No,3 - Medium
+1004,Portuguese,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.3291,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+1005,Portuguese,Mousinho da Silveira,Female,Urban,12,Pass,1,0,0.3994,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,No,No,1 - Very low
+1006,Portuguese,Mousinho da Silveira,Female,Rural,0,Fail,0,1,0.6745,High,D - High-risk repeaters,Yes,True positive (correctly flagged),3,Yes,0,None (0),2 - 2 to 5 hours,No,No,4 - High
+1007,Portuguese,Mousinho da Silveira,Female,Rural,15,Pass,1,0,0.3145,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,5,5-10,3 - 5 to 10 hours,Yes,No,1 - Very low
+1008,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.5348,Elevated,A - Supported achievers,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,2 - 2 to 5 hours,Yes,No,5 - Very high
+1009,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.3065,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+1010,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.2933,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,2,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+1011,Portuguese,Mousinho da Silveira,Female,Urban,15,Pass,1,0,0.3172,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,3 - Medium
+1012,Portuguese,Mousinho da Silveira,Male,Urban,14,Pass,1,0,0.3223,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,2,1-4,1 - Under 2 hours,Yes,No,2 - Low
+1013,Portuguese,Mousinho da Silveira,Female,Urban,18,Pass,1,0,0.2353,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+1014,Portuguese,Mousinho da Silveira,Female,Rural,15,Pass,1,0,0.4504,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+1015,Portuguese,Mousinho da Silveira,Female,Urban,13,Pass,1,0,0.3287,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,2 - Low
+1016,Portuguese,Mousinho da Silveira,Female,Urban,15,Pass,1,0,0.2231,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+1017,Portuguese,Mousinho da Silveira,Female,Rural,13,Pass,1,0,0.2078,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+1018,Portuguese,Mousinho da Silveira,Male,Rural,9,Fail,0,1,0.46,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+1019,Portuguese,Mousinho da Silveira,Male,Urban,16,Pass,1,0,0.2619,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,2 - Low
+1020,Portuguese,Mousinho da Silveira,Female,Rural,9,Fail,0,1,0.5856,Elevated,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,Yes,No,1 - Very low
+1021,Portuguese,Mousinho da Silveira,Female,Urban,10,Pass,1,0,0.2069,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+1022,Portuguese,Mousinho da Silveira,Female,Rural,0,Fail,0,1,0.3275,Moderate,C - Disengaged social,No,"False negative (missed, failed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,2 - Low
+1023,Portuguese,Mousinho da Silveira,Male,Rural,10,Pass,1,0,0.5642,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,3,1-4,1 - Under 2 hours,No,No,3 - Medium
+1024,Portuguese,Mousinho da Silveira,Female,Urban,12,Pass,1,0,0.3104,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,8,5-10,3 - 5 to 10 hours,Yes,No,3 - Medium
+1025,Portuguese,Mousinho da Silveira,Female,Rural,9,Fail,0,1,0.3693,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,5 - Very high
+1026,Portuguese,Mousinho da Silveira,Female,Rural,17,Pass,1,0,0.1724,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,4 - High
+1027,Portuguese,Mousinho da Silveira,Female,Rural,12,Pass,1,0,0.3534,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+1028,Portuguese,Mousinho da Silveira,Female,Rural,9,Fail,0,1,0.7055,High,D - High-risk repeaters,Yes,True positive (correctly flagged),1,Yes,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+1029,Portuguese,Mousinho da Silveira,Female,Rural,14,Pass,1,0,0.4127,Elevated,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,1,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+1030,Portuguese,Mousinho da Silveira,Female,Urban,16,Pass,1,0,0.2363,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,1,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+1031,Portuguese,Mousinho da Silveira,Female,Rural,9,Fail,0,1,0.3599,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,10,5-10,2 - 2 to 5 hours,Yes,No,4 - High
+1032,Portuguese,Mousinho da Silveira,Male,Urban,19,Pass,1,0,0.291,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+1033,Portuguese,Mousinho da Silveira,Male,Rural,0,Fail,0,1,0.479,Elevated,B - Steady middle,Yes,True positive (correctly flagged),0,No,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+1034,Portuguese,Mousinho da Silveira,Male,Urban,16,Pass,1,0,0.1523,Low,B - Steady middle,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,3 - Medium
+1035,Portuguese,Mousinho da Silveira,Male,Rural,0,Fail,0,1,0.6451,High,B - Steady middle,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,Yes,No,2 - Low
+1036,Portuguese,Mousinho da Silveira,Male,Rural,0,Fail,0,1,0.4996,Elevated,C - Disengaged social,Yes,True positive (correctly flagged),1,Yes,0,None (0),1 - Under 2 hours,Yes,No,3 - Medium
+1037,Portuguese,Mousinho da Silveira,Female,Rural,15,Pass,1,0,0.2996,Moderate,B - Steady middle,No,"True negative (not flagged, passed)",0,No,0,None (0),3 - 5 to 10 hours,Yes,No,3 - Medium
+1038,Portuguese,Mousinho da Silveira,Female,Urban,11,Pass,1,0,0.2413,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,0,None (0),2 - 2 to 5 hours,Yes,No,4 - High
+1039,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.2906,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,3 - Medium
+1040,Portuguese,Mousinho da Silveira,Female,Rural,10,Pass,1,0,0.5195,Elevated,B - Steady middle,Yes,"False positive (flagged, passed)",1,Yes,4,1-4,3 - 5 to 10 hours,Yes,No,2 - Low
+1041,Portuguese,Mousinho da Silveira,Female,Urban,16,Pass,1,0,0.2761,Moderate,A - Supported achievers,No,"True negative (not flagged, passed)",0,No,4,1-4,2 - 2 to 5 hours,Yes,No,4 - High
+1042,Portuguese,Mousinho da Silveira,Female,Urban,9,Fail,0,1,0.3588,Moderate,B - Steady middle,No,"False negative (missed, failed)",0,No,6,5-10,2 - 2 to 5 hours,Yes,No,1 - Very low
+1043,Portuguese,Mousinho da Silveira,Male,Urban,10,Pass,1,0,0.4567,Elevated,C - Disengaged social,Yes,"False positive (flagged, passed)",0,No,6,5-10,1 - Under 2 hours,Yes,No,5 - Very high
+1044,Portuguese,Mousinho da Silveira,Male,Rural,11,Pass,1,0,0.3818,Moderate,C - Disengaged social,No,"True negative (not flagged, passed)",0,No,4,1-4,1 - Under 2 hours,Yes,No,1 - Very low
