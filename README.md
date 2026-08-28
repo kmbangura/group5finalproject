@@ -19,6 +19,6 @@ Previous academic performance, such as grades in previous grading periods, and w
 Some of our limitations in this project is the time and proximity constraint. Our analysis could have been more streamlined and built on each member's individual contributions more, which would have made for a more cohesive project. If we were to have a bit more time, we would have supported each stage more collaboratively as opposed to relying on individual contributions and joining the work together at the end.
 
 Contributions
-EDA: Oluwatoyin Afolabi
-Supervised and unsupervised learning models: Khadija Bangura and Sheryl Boateng
-Tableau: Lendz Dieudonne
+* EDA: Oluwatoyin Afolabi
+* Supervised and unsupervised learning models: Khadija Bangura and Sheryl Boateng
+* Tableau: Lendz Dieudonne
